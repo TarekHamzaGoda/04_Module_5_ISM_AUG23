@@ -1,0 +1,128 @@
+{
+    "root": {
+    "name": "Pampered Pets",
+    "parent": "None",
+    "value":null
+  },
+    "leaf0": {
+    "name": "Spoofing",
+    "parent": "Pampered Pets",
+    "value":null
+  },
+    "leaf00": {
+    "name": "s1",
+    "parent": "Spoofing",
+    "value":3.10
+  },
+    "leaf01": {
+    "name": "s2",
+    "parent": "Spoofing",
+    "value":4.55
+  },
+    "leaf02": {
+    "name": "s3",
+    "parent": "Spoofing",
+    "value":6.00
+  },
+    "leaf1": {
+    "name": "Tampering",
+    "parent": "Pampered Pets",
+    "value":null
+  },
+    "leaf10": {
+    "name": "t1",
+    "parent": "Tampering",
+    "value":2.31
+  },
+    "leaf11": {
+    "name": "t2",
+    "parent": "Tampering",
+    "value":0.60
+  },
+    "leaf12": {
+    "name": "t3",
+    "parent": "Tampering",
+    "value":0.60
+  },
+    "leaf2": {
+    "name": "Repudiation",
+    "parent": "Pampered Pets",
+    "value":null
+  },
+    "leaf20": {
+    "name": "r1",
+    "parent": "Repudiation",
+    "value":1.20
+  },
+    "leaf21": {
+    "name": "r2",
+    "parent": "Repudiation",
+    "value":0.66
+  },
+    "leaf22": {
+    "name": "r3",
+    "parent": "Repudiation",
+    "value":0.66
+  },
+    "leaf3": {
+    "name": "Information Disclosure",
+    "parent": "Pampered Pets",
+    "value":null
+  },
+    "leaf30": {
+    "name": "i1",
+    "parent": "Information Disclosure",
+    "value":4.51
+  },
+    "leaf31": {
+    "name": "i2",
+    "parent": "Information Disclosure",
+    "value":5.00
+  },
+    "leaf32": {
+    "name": "i3",
+    "parent": "Information Disclosure",
+    "value":1.50
+  },
+    "leaf4": {
+    "name": "Denial of service",
+    "parent": "Pampered Pets",
+    "value":null
+  },
+    "leaf40": {
+    "name": "d1",
+    "parent": "Denial of service",
+    "value":0.50
+  },
+    "leaf41": {
+    "name": "d2",
+    "parent": "Denial of service",
+    "value":6.10
+  },
+    "leaf42": {
+    "name": "d3",
+    "parent": "Denial of service",
+    "value":6.10
+
+  },
+      "leaf5": {
+    "name": "Elevation of privilege",
+    "parent": "Pampered Pets",
+    "value":null
+  },
+    "leaf50": {
+    "name": "e1",
+    "parent": "Elevation of privilege",
+    "value":3.20
+  },
+    "leaf51": {
+    "name": "e2",
+    "parent": "Elevation of privilege",
+    "value":4.58
+  },
+    "leaf52": {
+      "name": "e3",
+      "parent": "Elevation of privilege",
+      "value": 3.00
+  }
+}

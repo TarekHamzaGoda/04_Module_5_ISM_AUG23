@@ -1,0 +1,107 @@
+{
+    "root": {
+    "name": "Pampered Pets",
+    "parent": "None",
+    "value":null
+  },
+    "leaf0": {
+    "name": "Spoofing",
+    "parent": "Pampered Pets",
+    "value":null
+  },
+    "leaf00": {
+    "name": "s1",
+    "parent": "Spoofing",
+    "value":2.0
+  },
+    "leaf01": {
+    "name": "s2",
+    "parent": "Spoofing",
+    "value":1.51
+  },
+    "leaf1": {
+    "name": "Tampering",
+    "parent": "Pampered Pets",
+    "value":null
+  },
+    "leaf10": {
+    "name": "t1",
+    "parent": "Tampering",
+    "value":0.30
+  },
+    "leaf11": {
+    "name": "t2",
+    "parent": "Tampering",
+    "value":2.30
+  },
+    "leaf2": {
+    "name": "Repudiation",
+    "parent": "Pampered Pets",
+    "value":null
+  },
+    "leaf20": {
+    "name": "r1",
+    "parent": "Repudiation",
+    "value":2.60
+  },
+    "leaf21": {
+    "name": "r2",
+    "parent": "Repudiation",
+    "value":0.66
+  },
+    "leaf3": {
+    "name": "Information Disclosure",
+    "parent": "Pampered Pets",
+    "value":null
+  },
+    "leaf30": {
+    "name": "i1",
+    "parent": "Information Disclosure",
+    "value":2.51
+  },
+    "leaf31": {
+    "name": "i2",
+    "parent": "Information Disclosure",
+    "value":2.22
+  },
+    "leaf32": {
+    "name": "i3",
+    "parent": "Information Disclosure",
+    "value":2.22
+  },
+    "leaf4": {
+    "name": "Denial of service",
+    "parent": "Pampered Pets",
+    "value":null
+  },
+    "leaf40": {
+    "name": "d1",
+    "parent": "Denial of service",
+    "value":1.20
+  },
+    "leaf41": {
+    "name": "d2",
+    "parent": "Denial of service",
+    "value":2.58
+  },
+    "leaf42": {
+    "name": "d3",
+    "parent": "Denial of service",
+    "value":1.67
+  },
+    "leaf5": {
+    "name": "Elevation of privilege",
+    "parent": "Pampered Pets",
+    "value":null
+  },
+    "leaf50": {
+    "name": "e1",
+    "parent": "Elevation of privilege",
+    "value":1.20
+  },
+    "leaf51": {
+    "name": "e2",
+    "parent": "Elevation of privilege",
+    "value":2.58
+  }
+}

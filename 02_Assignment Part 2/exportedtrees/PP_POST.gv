@@ -1,0 +1,124 @@
+digraph tree {
+    "Pampered Pets
+3.01";
+    "Spoofing
+4.55";
+    "s1
+3.1";
+    "s2
+4.55";
+    "s3
+6.0";
+    "Tampering
+1.17";
+    "t1
+2.31";
+    "t2
+0.6";
+    "t3
+0.6";
+    "Repudiation
+0.84";
+    "r1
+1.2";
+    "r2
+0.66";
+    "r3
+0.66";
+    "Information Disclosure
+3.67";
+    "i1
+4.51";
+    "i2
+5.0";
+    "i3
+1.5";
+    "Denial of service
+4.23";
+    "d1
+0.5";
+    "d2
+6.1";
+    "d3
+6.1";
+    "Elevation of privilege
+3.59";
+    "e1
+3.2";
+    "e2
+4.58";
+    "e3
+3.0";
+    "Pampered Pets
+3.01" -> "Spoofing
+4.55";
+    "Pampered Pets
+3.01" -> "Tampering
+1.17";
+    "Pampered Pets
+3.01" -> "Repudiation
+0.84";
+    "Pampered Pets
+3.01" -> "Information Disclosure
+3.67";
+    "Pampered Pets
+3.01" -> "Denial of service
+4.23";
+    "Pampered Pets
+3.01" -> "Elevation of privilege
+3.59";
+    "Spoofing
+4.55" -> "s1
+3.1";
+    "Spoofing
+4.55" -> "s2
+4.55";
+    "Spoofing
+4.55" -> "s3
+6.0";
+    "Tampering
+1.17" -> "t1
+2.31";
+    "Tampering
+1.17" -> "t2
+0.6";
+    "Tampering
+1.17" -> "t3
+0.6";
+    "Repudiation
+0.84" -> "r1
+1.2";
+    "Repudiation
+0.84" -> "r2
+0.66";
+    "Repudiation
+0.84" -> "r3
+0.66";
+    "Information Disclosure
+3.67" -> "i1
+4.51";
+    "Information Disclosure
+3.67" -> "i2
+5.0";
+    "Information Disclosure
+3.67" -> "i3
+1.5";
+    "Denial of service
+4.23" -> "d1
+0.5";
+    "Denial of service
+4.23" -> "d2
+6.1";
+    "Denial of service
+4.23" -> "d3
+6.1";
+    "Elevation of privilege
+3.59" -> "e1
+3.2";
+    "Elevation of privilege
+3.59" -> "e2
+4.58";
+    "Elevation of privilege
+3.59" -> "e3
+3.0";
+}
